@@ -9,4 +9,5 @@ Assignment for ICS4U Grade 12 Computer Science
 - Merge Sort
 - Quick Sort
 - Heap Sort
+
 Along with a command line menu to select algorithm and dataset size to test.
